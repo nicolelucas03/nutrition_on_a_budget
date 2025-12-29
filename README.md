@@ -15,9 +15,6 @@ A full-stack AI-powered application that analyzes grocery receipts, provides nut
 - [Usage](#usage)
 - [API Documentation](#api-documentation)
 - [How It Works](#how-it-works)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -70,7 +67,7 @@ A full-stack AI-powered application that analyzes grocery receipts, provides nut
 - Custom health scoring algorithm
 - Nutrition categorization (produce, protein, dairy, grains, etc.)
 
-## 📁 Project Structure
+## Project Structure
 ```
 nutrition_on_a_budget/
 ├── backend/
