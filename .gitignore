@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+.env
+*.pyc
+
+# Node
+node_modules/
+dist/
+build/
+.cache/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+test_receipt.jpg
+temp_receipt.jpg
+backend/venv/
+backend/__pycache__/
+frontend/node_modules/
+frontend/dist/
