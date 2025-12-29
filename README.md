@@ -28,7 +28,7 @@ A full-stack AI-powered application that analyzes grocery receipts, provides nut
 - Provides specific, actionable food swaps
 - Maintains variety and satisfaction
 
-### Features
+## Features
 
 ### Core Functionality
 - **Receipt OCR**: Upload any grocery receipt photo, automatically extract items and prices
