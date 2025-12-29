@@ -6,6 +6,8 @@ A full-stack AI-powered application that analyzes grocery receipts, provides nut
 
 ![SmartCart Logo](/frontend/src/assets/smartcart_logo.png)
 
+![Project Demo](/frontend/src/assets/smartcart_demo.gif)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
